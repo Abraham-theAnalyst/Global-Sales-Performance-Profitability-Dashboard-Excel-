@@ -29,7 +29,7 @@ Critical/Low priority orders contribute significantly less.
 → Indicates that urgent demand drives more sales volume.</li>
 
 ## Key business takeaways 
-I would recommend the business to;
+I would recommend for the business to;
 <li>Focus on Technology category expansion (biggest revenue driver)</li>
 <li>Improve low-performing markets (Africa, LATAM)</li>
 <li>Increase Corporate segment engagement</li>
