@@ -1,6 +1,9 @@
 # Global-Sales-Performance-Profitability-Dashboard (Excel)
 This project is an interactive Excel dashboard that analyzes global retail sales data to uncover insights on sales performance, profitability, and customer behavior. It highlights key metrics such as revenue, profit, and profit margin, while exploring the impact of discounts, product categories, and regional performance using dynamic visualizations and filters. [Download file to view project].
 
+## 📊 Dashboard Preview
+
+
 ## Key Features
 <li>KPI tracking (Sales, Profit, Profit Margin, Orders)</li>
 <li>Sales & profit trend analysis over time</li>
