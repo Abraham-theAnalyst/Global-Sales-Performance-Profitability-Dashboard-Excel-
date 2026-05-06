@@ -13,7 +13,7 @@ This project is an interactive Excel dashboard that analyzes global retail sales
 <li>Interactive slicers for dynamic filtering</li>
 
 ## Key Insights
-*Total Sales: $12.64M and Total Profit: $1.47M indicate a ~12% profit margin, which is healthy but leaves room for optimization.
+<li>Total Sales: $12.64M and Total Profit: $1.47M indicate a ~12% profit margin, which is healthy but leaves room for optimization.</li>
 <li>The business is clearly profitable, but margins suggest cost or discount inefficiencies may exist.</li>
 <li>Sales and profit show a consistent upward trend year-over-year.
 2015 is the peak year, contributing the highest revenue and profit.
